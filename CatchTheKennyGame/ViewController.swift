@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     var hideTimer = Timer()
     var highScore = 0
     
-    //Views
+    //views
 
     @IBOutlet weak var timeLabel: UILabel!
     @IBOutlet weak var scoreLabel: UILabel!
